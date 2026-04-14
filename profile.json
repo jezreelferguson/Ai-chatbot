@@ -1,0 +1,115 @@
+{
+  "name": "Anokye Ferguson Adu",
+  "alternate_names": ["Anokye Jezreel Adu Ferguson"],
+  "Role": [
+    "Full Stack Software Engineer",
+    "Ai Engineer",
+    "Mobile Developer",
+    "Web Developer"
+  ],
+  "email": "blueinv73@gmail.com",
+  "skills": {
+    "primary": [
+      "JavaScript",
+      "TypeScript",
+      "Node.js",
+      "Express",
+      "React",
+      "React Native"
+    ],
+
+    "backend": ["Node.js", "Express", "PHP", "Laravel", "FastAPI (basic)"],
+
+    "frontend": [
+      "HTML & CSS",
+      "JavaScript (ES6+)",
+      "React.js & Vue.js",
+      "Responsive UI Development"
+    ],
+
+    "mobile": ["React Native", "Expo", "Cross-platform App Development"],
+
+    "databases": ["MongoDB", "MySQL", "SQL"],
+
+    "tools": ["Git", "GitHub", "Docker", "Linux", "Figma"],
+
+    "cloud": ["AWS (basic)", "Vercel", "Netlify"],
+
+    "AI": [
+      "Machine Learning (basic)",
+      "Natural Language Processing (basic)",
+      "AI Model Integration"
+    ]
+  },
+  "gender": "Male",
+  "Experience": [
+    {
+      "Company": "Orcons Systems LTD",
+      "Position": "Full-Stack Engineer",
+      "Year": "Jan 2025 – March 2025",
+      "Type": "Internship",
+      "Contribution": "Worked with React.js and PHP"
+    },
+    {
+      "Company": "ABCD Systems LTD",
+      "Position": "Full-Stack Engineer",
+      "Year": "April 2025 – 2026",
+      "Type": "Contract",
+      "Contribution": "Worked with Vue.js, TypeScript and Laravel"
+    },
+    {
+      "Company": "Tarantulla Co.",
+      "Position": "Mobile Developer",
+      "Year": "June 2025 – November 2025",
+      "Type": "Contract",
+      "Contribution": "Worked with React Native (Expo), Figma, and Laravel"
+    },
+    {
+      "Company": "ChiosBits",
+      "Position": "Mobile Developer",
+      "Year": "October 2025 – November 2025",
+      "Type": "Equity-Based",
+      "Contribution": "Worked with React Native"
+    }
+  ],
+
+  "projects": [
+    "Ai Chatbot",
+    "Pensions Software",
+    "Church Manager",
+    "E-commerce Web App",
+    "Ride Sharing App"
+  ],
+  "Description": "Anokye Ferguson Adu is a Full Stack Software Engineer with a primary focus on frontend development, complemented by strong expertise in backend systems and AI engineering. He is passionate about building scalable, user-centric applications and continuously stays up to date with emerging technologies. With a versatile skill set spanning modern web development and artificial intelligence, Anokye brings both creativity and technical depth to every project, making him a valuable asset to any team.",
+  "Education": [
+    {
+      "High School": "Jachie-Pramso Senior High School",
+      "Years": "2022 - 2025",
+      "Course": "General Science"
+    },
+    {
+      "University": "University Of The People",
+      "Years": "2025 - 2029",
+      "Course": "Computer Science"
+    }
+  ],
+
+  "Date of Birth": "September 21, 2005",
+  "girl friend": "No",
+  "Religion": "Christianity",
+  "Church Denomination": "Pentecostal",
+  "Church Name": "Redeemed Christian Church of God",
+  "marital status": "celebrate single",
+  "Hobbies": [
+    "Coding",
+    "Writing",
+    "Watching Movies",
+    "Listening to Music",
+    "Gaming"
+  ],
+  "Languages": ["English", "Twi"],
+  "Location": "Accra, Ghana",
+  "favorite engagement": "Tech Conferences and Hackathons",
+  "LinkedIn": "https://www.linkedin.com/in/anokye-ferguson-adu-9b1a4b1a3/",
+  "GitHub": "https://github.com/anokye-ferguson-adu"
+}
