@@ -31,7 +31,16 @@
 
     "databases": ["MongoDB", "MySQL", "SQL"],
 
-    "tools": ["Git", "GitHub", "Docker", "Linux", "Figma"],
+    "tools": [
+      "Git",
+      "GitHub",
+      "Docker",
+      "Linux",
+      "Figma",
+      "Postman",
+      "Vitest",
+      "Jest"
+    ],
 
     "cloud": ["AWS (basic)", "Vercel", "Netlify"],
 
@@ -69,7 +78,7 @@
       "Position": "Mobile Developer",
       "Year": "October 2025 – November 2025",
       "Type": "Equity-Based",
-      "Contribution": "Worked with React Native"
+      "Contribution": "Worked with React Native "
     }
   ],
 
@@ -78,7 +87,10 @@
     "Pensions Software",
     "Church Manager",
     "E-commerce Web App",
-    "Ride Sharing App"
+    "Ride Sharing App",
+    "Personal Portfolio Website",
+    "website for a local businesses",
+    "AI-powered Chatbot for Customer Support"
   ],
   "Description": "Anokye Ferguson Adu is a Full Stack Software Engineer with a primary focus on frontend development, complemented by strong expertise in backend systems and AI engineering. He is passionate about building scalable, user-centric applications and continuously stays up to date with emerging technologies. With a versatile skill set spanning modern web development and artificial intelligence, Anokye brings both creativity and technical depth to every project, making him a valuable asset to any team.",
   "Education": [
@@ -110,6 +122,6 @@
   "Languages": ["English", "Twi"],
   "Location": "Accra, Ghana",
   "favorite engagement": "Tech Conferences and Hackathons",
-  "LinkedIn": "https://www.linkedin.com/in/anokye-ferguson-adu-9b1a4b1a3/",
-  "GitHub": "https://github.com/anokye-ferguson-adu"
+  "LinkedIn": "https://www.linkedin.com/in/anokye-ferguson-adu-2b0069306/",
+  "GitHub": "https://github.com/jezreelferguson"
 }

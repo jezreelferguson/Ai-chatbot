@@ -6,7 +6,7 @@ const app = express();
 const cors = require("cors");
 app.use(
   cors({
-    origin: ["https://ferguson-dev.vercel.app", "https://ferguson-dev.netlify.app"],
+    origin: ["https://ferguson-dev.vercel.app", "https://ferguson-dev.netlify.app", "http://localhost:5500"],
     methods: ["GET", "POST"],
     credentials: true,
   }),
@@ -19,6 +19,7 @@ const profile = require("./profile.json");
 app.get("/", (req, res) => {
   res.send("Hello World!");
 });
+
 
 app.post("/api/chat", async (req, res) => {
   const { message } = req.body;
