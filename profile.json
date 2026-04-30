@@ -18,7 +18,7 @@
       "React Native"
     ],
 
-    "backend": ["Node.js", "Express", "PHP", "Laravel", "FastAPI (basic)"],
+    "backend": ["Node.js", "Express", "PHP", "Laravel", "FastAPI (Intermediate)"],
 
     "frontend": [
       "HTML & CSS",
@@ -33,7 +33,7 @@
 
     "tools": ["Git", "GitHub", "Docker", "Linux", "Figma", "Postman", "Vitest", "Jest"],
 
-    "cloud": ["AWS (basic)", "Vercel", "Netlify"],
+    "cloud": ["AWS", "Vercel", "Netlify", "Render"],
 
     "AI": [
       "Machine Learning (basic)",
