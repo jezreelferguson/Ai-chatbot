@@ -3,27 +3,18 @@
   "alternate_names": ["Anokye Jezreel Adu Ferguson"],
   "Role": [
     "Full Stack Software Engineer",
-    "Ai/ML Engineer",
-    "Mobile Developer",
-    "Web Developer"
+    "Ai/ML Engineer"
+   
   ],
   "email": "blueinv73@gmail.com",
   "skills": {
-    "primary": [
-      "JavaScript",
-      "TypeScript",
-      "Node.js",
-      "Express",
-      "React",
-      "React Native"
-    ],
-
-    "backend": ["Node.js", "Express", "PHP", "Laravel", "FastAPI (Intermediate)"],
+  
+    "backend": ["Laravel (PHP)", "FastAPI (Python)"],
 
     "frontend": [
       "HTML & CSS",
-      "JavaScript (ES6+)",
-      "React.js & Vue.js",
+      "JavaScript (ES6+) / TypeScript",
+      "React.js / React Native",
       "Responsive UI Development"
     ],
 
@@ -36,8 +27,8 @@
     "cloud": ["AWS", "Vercel", "Netlify", "Render"],
 
     "AI": [
-      "Machine Learning (basic)",
-      "Natural Language Processing (basic)",
+      "Machine Learning",
+      "Natural Language Processing",
       "AI Model Integration"
     ]
   },
