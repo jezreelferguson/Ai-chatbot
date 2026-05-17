@@ -44,10 +44,10 @@
     },
     {
       "Company": "ABCD Systems LTD",
-      "Position": "Full-Stack Engineer",
+      "Position": "Full-Stack Engineer and AI Engineer",
       "Year": "April 2025 – 2026",
       "Type": "Contract",
-      "Contribution": "Worked with Vue.js, TypeScript and Laravel"
+      "Contribution": "Worked with Vue.js, TypeScript, Laravel, and AI model integration using Python and LLMs"
     },
     {
       "Company": "Tarantulla Co.",
@@ -75,7 +75,7 @@
     "website for a local businesses",
     "AI-powered Chatbot for Customer Support"
   ],
-  "Description": "Anokye Ferguson Adu is a Full Stack Software Engineer with a primary focus on AI/ML, complemented by strong expertise in backend systems and AI engineering. He is passionate about building scalable, user-centric applications and continuously stays up to date with emerging technologies. With a versatile skill set spanning modern web development and artificial intelligence, Anokye brings both creativity and technical depth to every project, making him a valuable asset to any team.",
+  "Description": "Anokye Ferguson Adu is a Full Stack Software Engineer with a primary focus on AI/ML, complemented by strong expertise in backend systems and frontend development. He is passionate about building scalable, user-centric applications and continuously stays up to date with emerging technologies. With a versatile skill set spanning modern web development and artificial intelligence, Anokye brings both creativity and technical depth to every project, making him a valuable asset to any team.",
   "Education": [
     {
       "High School": "Jachie-Pramso Senior High School",
