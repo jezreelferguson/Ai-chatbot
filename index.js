@@ -6,7 +6,7 @@ const app = express();
 const cors = require("cors");
 app.use(
   cors({
-    origin: ["https://ferguson-dev.vercel.app", "https://ferguson-dev.netlify.app", "http://localhost:5500"],
+    origin: ["*"],
     methods: ["GET", "POST"],
     credentials: true,
   }),
