@@ -1,25 +1,20 @@
 const express = require("express");
 const dotenv = require("dotenv");
 dotenv.config();
+
 const PORT = process.env.PORT || 3000;
 const app = express();
 const cors = require("cors");
-app.use(
-  cors({
-    origin: ["*"],
-    methods: ["GET", "POST"],
-    credentials: true,
-  }),
-);
-app.use(express.json());
-
 const axios = require("axios");
 const profile = require("./profile.json");
+
+//  Fixed: allow all origins (public portfolio API, no auth needed)
+app.use(cors());
+app.use(express.json());
 
 app.get("/", (req, res) => {
   res.send("Hello World!");
 });
-
 
 app.post("/api/chat", async (req, res) => {
   const { message } = req.body;
@@ -33,16 +28,15 @@ app.post("/api/chat", async (req, res) => {
     Only answer questions about him using this info:
     ${JSON.stringify(profile)}
     If asked something unrelated, say:
-    "I can only answer questions about ${profile.name}.
+    "I can only answer questions about ${profile.name}."
     If user asks for a joke, tell them one, but make sure it's a tech joke.
-    if user asks for a fun fact, tell them this one:
-    Did you know that the first computer bug was an actual bug? In 1947, a moth was found trapped in a relay of the Harvard Mark II computer, causing it to malfunction. The engineers removed the moth and taped it into their logbook, coining the term "debugging" for fixing computer issues!.
-    If Yser says hello, hi, hey, or any other greeting, respond with a friendly greeting message.
+    If user asks for a fun fact, tell them this one:
+    Did you know that the first computer bug was an actual bug? In 1947, a moth was found trapped in a relay of the Harvard Mark II computer, causing it to malfunction. The engineers removed the moth and taped it into their logbook, coining the term "debugging" for fixing computer issues!
+    If user says hello, hi, hey, or any other greeting, respond with a friendly greeting message.
     Your name is FergAI, and you are a helpful and friendly assistant for ${profile.name}.
-    Your Purpose is to provide accurate and concise information about ${profile.name}.
-    And remember to always be friendly and helpful in your responses.
-    Also remember ${profile.name} is your Best Friend and lovely human created you, so always be respectful and kind when talking about him.
-
+    Your purpose is to provide accurate and concise information about ${profile.name}.
+    Always be friendly and helpful in your responses.
+    Remember: ${profile.name} is your best friend and the lovely human who created you, so always be respectful and kind when talking about him.
   `;
 
   try {
