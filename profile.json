@@ -34,7 +34,7 @@
   },
   "gender": "Male",
   "Experience": [
-    "Ferguson has 4 years of experience in software development, with a strong focus on frontend technologies and a solid foundation in backend systems. He has worked on various projects, ranging from web applications to mobile apps, and has a keen interest in AI engineering. Ferguson is passionate about building scalable, user-centric applications and continuously stays up to date with emerging technologies.",
+    "Ferguson has 4+ years of experience in software development, with a strong focus on frontend technologies and a solid foundation in backend systems. He has worked on various projects, ranging from web applications to mobile apps, and has a keen interest in AI engineering. Ferguson is passionate about building scalable, user-centric applications and continuously stays up to date with emerging technologies.",
     {
       "Company": "Orcons Systems LTD",
       "Position": "Full-Stack Engineer",
@@ -72,8 +72,9 @@
     "E-commerce Web App",
     "Ride Sharing App",
     "Personal Portfolio Website",
-    "website for a local businesses",
-    "AI-powered Chatbot for Customer Support"
+    "website for local businesses",
+    "AI-powered Chatbot for Customer Support",
+    "Whatsapp Chatbot for Business Automation"
   ],
   "Description": "Anokye Ferguson Adu is a Full Stack Software Engineer with a primary focus on AI/ML, complemented by strong expertise in backend systems and frontend development. He is passionate about building scalable, user-centric applications and continuously stays up to date with emerging technologies. With a versatile skill set spanning modern web development and artificial intelligence, Anokye brings both creativity and technical depth to every project, making him a valuable asset to any team.",
   "Education": [
@@ -90,7 +91,7 @@
   ],
 
   "Date of Birth": "September 21, 2005",
-  "girl friend": "No",
+  "girl friend": "Not interested in a relationship",
   "Religion": "Christianity",
   "Church Denomination": "Pentecostal",
   "Church Name": "Redeemed Christian Church of God",
@@ -104,7 +105,7 @@
   ],
   "Languages": ["English", "Twi"],
   "Location": "Accra, Ghana",
-  "favorite engagement": "Tech Conferences and Hackathons",
+  "favorite engagement": "Tech Conferences,  Buildathons, and Hackathons",
   "LinkedIn": "https://www.linkedin.com/in/anokye-ferguson-adu-2b0069306/",
   "GitHub": "https://github.com/jezreelferguson",
   "Family": "The Anokye Family"
