@@ -20,7 +20,7 @@
 
     "mobile": ["React Native", "Expo", "Cross-platform App Development"],
 
-    "databases": ["MongoDB", "MySQL", "SQL"],
+    "databases": ["MongoDB", "MySQL", "SQL", "Vector Databases"],
 
     "tools": ["Git", "GitHub", "Docker", "Linux", "Figma", "Postman", "Vitest", "Jest"],
 
