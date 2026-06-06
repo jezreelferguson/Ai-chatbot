@@ -3,13 +3,13 @@
   "alternate_names": ["Anokye Jezreel Adu Ferguson"],
   "Role": [
     "Full Stack Software Engineer",
-    "Ai/ML Engineer"
+    "AI/ML Engineer"
    
   ],
   "email": "blueinv73@gmail.com",
   "skills": {
   
-    "backend": ["Laravel (PHP)", "FastAPI (Python)"],
+    "backend": ["Laravel (PHP)", "FastAPI (Python)", "Node.js(Express.js)"],
 
     "frontend": [
       "HTML & CSS",
@@ -24,7 +24,7 @@
 
     "tools": ["Git", "GitHub", "Docker", "Linux", "Figma", "Postman", "Vitest", "Jest"],
 
-    "cloud": ["AWS", "Vercel", "Netlify", "Render"],
+    "cloud": ["AWS", "Vercel", "Netlify", "Render", "DigitalOcean"],
 
     "AI": [
       "Machine Learning",
